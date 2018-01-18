@@ -4,4 +4,4 @@ dotnet: 2.0.0
 solution: PerformanceLogger.sln
 script:
  - cd PerformanceLogger.Tests
- - dotnet xunit
+ - dotnet test

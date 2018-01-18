@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerformanceLogger", "PerformanceLogger\PerformanceLogger.csproj", "{811B7E00-F82D-43DE-8C18-3F943ACD4268}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerformanceLogger.Tests", "PerformanceLogger.Tests\PerformanceLogger.Tests.csproj", "{7612219C-65B8-4CD2-9ADF-2EA575CFDCA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811B7E00-F82D-43DE-8C18-3F943ACD4268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811B7E00-F82D-43DE-8C18-3F943ACD4268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811B7E00-F82D-43DE-8C18-3F943ACD4268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811B7E00-F82D-43DE-8C18-3F943ACD4268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7612219C-65B8-4CD2-9ADF-2EA575CFDCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7612219C-65B8-4CD2-9ADF-2EA575CFDCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7612219C-65B8-4CD2-9ADF-2EA575CFDCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7612219C-65B8-4CD2-9ADF-2EA575CFDCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A75AC0-AD63-463C-90D4-FD9E84E32009}
+	EndGlobalSection
+EndGlobal
